@@ -1,0 +1,37 @@
+1. Context Overview
+Domestika’s community thrives on the observe → practice → share loops, and the Creative Assistant will leverage LLM-powered agents to enhance this experience. The assistant will focus on three main objectives:
+
+Guiding Learners: Personalizing skill journeys based on individual goals and progress.
+Elevating Practice: Providing intelligent feedback and facilitating AI co-creation to improve learner outcomes.
+Strengthening Community Ties: Connecting learners with peers and mentors at the right moments to foster collaboration and support.
+2. Deliverables
+A. Near-Working Prototype
+The prototype will consist of two core user flows that demonstrate the functionality of the Creative Assistant. Below are the details of each user flow, including the key features and technology stack.
+
+User Flow 1: Personalized Skill Journey
+Objective: Guide learners through a personalized skill journey based on their interests and goals.
+
+Steps:
+
+User Onboarding:
+
+The user signs up and completes a brief questionnaire about their interests, current skill level, and learning goals.
+The assistant uses this information to create a personalized learning path.
+Skill Journey Dashboard:
+
+The user is presented with a dashboard that outlines their personalized skill journey, including recommended courses, resources, and milestones.
+The assistant provides a visual representation of progress (e.g., a progress bar or checklist).
+Content Discovery:
+
+The user can explore recommended content (e.g., tutorials, articles, videos) tailored to their skill level and interests.
+The assistant suggests content based on user behavior and preferences.
+Feedback Loop:
+
+After completing a task or project, the user submits their work for feedback.
+The assistant analyzes the submission and provides personalized feedback, highlighting strengths and areas for improvement.
+Technology Stack:
+
+Frontend: React or Vue.js for building the user interface.
+Backend: Node.js with Express for handling API requests.
+Database: MongoDB or Firebase for storing user data and progress.
+LLM Integration: OpenAI API or similar for generating personalized feedback and content recommendations.

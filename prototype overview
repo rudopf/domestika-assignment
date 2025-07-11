@@ -10,12 +10,12 @@ A. Near-Working Prototype
 The prototype will consist of two core user flows that demonstrate the functionality of the Creative Assistant. Below are the details of each user flow, including the key features and technology stack.
 
 User Flow 1: Personalized Skill Journey
+
 Objective: Guide learners through a personalized skill journey based on their interests and goals.
 
 Steps:
 
 User Onboarding:
-
 The user signs up and completes a brief questionnaire about their interests, current skill level, and learning goals.
 The assistant uses this information to create a personalized learning path.
 
@@ -41,19 +41,18 @@ Objective: Strengthen community ties by connecting learners with peers and mento
 Steps:
 
 Peer Matching:
-
 The user can opt to connect with peers who share similar interests or are working on similar projects.
 The assistant uses an algorithm to match users based on their profiles and current projects.
-Mentorship Requests:
 
+Mentorship Requests:
 Users can request mentorship from experienced community members or instructors.
 The assistant facilitates the request process and notifies the mentor.
-Collaboration Tools:
 
+Collaboration Tools:
 Once matched, users can collaborate on projects using integrated tools (e.g., shared workspaces, chat functionality).
 The assistant provides prompts and suggestions to guide collaboration.
-Community Sharing:
 
+Community Sharing:
 After completing a project, users can share their work within the community.
 The assistant encourages sharing by highlighting the benefits of feedback and recognition.
 
